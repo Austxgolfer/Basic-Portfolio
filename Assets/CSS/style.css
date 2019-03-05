@@ -1,11 +1,14 @@
 body {
     width: 960px;
+    height: 100%;
     margin: 0 auto 0 auto;
 }
 #about {
     float: left;
+    position: relative;
     text-align: right;
     width: 536px;
+    height:20px;
     padding:20px;
     background:yellow;
 }
@@ -13,10 +16,11 @@ body {
 #namebox {
     position: absolute;
     top: 0px;
-    left:400px;
+    left:120px;
     text-align: center;
-    width: 120px;
-    height: 60px;
+    width: 100px;
+    height:20px;
+    padding:20px;
     background: green;
 }
 
@@ -24,6 +28,7 @@ body {
     float: left;
     text-align: center;
     width:104px;
+    height:20px;
     padding:20px;
     background: orange;
 }
@@ -32,19 +37,23 @@ body {
     float: left;
     text-align: left;
     width:200px;
+    height:20px;
     padding:20px;
     background:red;
 }
 
 #Middle {
-    height:600px;
+    position: relative;
+    top:60px;
+    height:500px;
     width:960px;
     background: blue;
 }
 
 #aboutmebox {
     position: absolute;
-    top:120px;
+    top:60px;
+    left:120px;
     height: 360px;
     width:720px;
     background: grey;
@@ -62,9 +71,11 @@ body {
     top:80px;
     bottom:0;
     background: darkorchid;
-    
+
 }
+    
+
 footer {
-    height:60px;
-    background: grey;
+        height: 30px;
+        background:red;    
 }
