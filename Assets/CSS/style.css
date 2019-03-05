@@ -1,0 +1,70 @@
+body {
+    width: 960px;
+    margin: 0 auto 0 auto;
+}
+#about {
+    float: left;
+    text-align: right;
+    width: 536px;
+    padding:20px;
+    background:yellow;
+}
+
+#namebox {
+    position: absolute;
+    top: 0px;
+    left:400px;
+    text-align: center;
+    width: 120px;
+    height: 60px;
+    background: green;
+}
+
+#Portfolio {
+    float: left;
+    text-align: center;
+    width:104px;
+    padding:20px;
+    background: orange;
+}
+
+#contact {
+    float: left;
+    text-align: left;
+    width:200px;
+    padding:20px;
+    background:red;
+}
+
+#Middle {
+    height:600px;
+    width:960px;
+    background: blue;
+}
+
+#aboutmebox {
+    position: absolute;
+    top:120px;
+    height: 360px;
+    width:720px;
+    background: grey;
+}
+
+#abouttop {
+    height:80px;
+    width:720px;
+    background: darkmagenta;
+}
+
+#abouttext {
+    width:720px;
+    position:absolute;
+    top:80px;
+    bottom:0;
+    background: darkorchid;
+    
+}
+footer {
+    height:60px;
+    background: grey;
+}
