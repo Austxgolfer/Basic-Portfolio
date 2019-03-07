@@ -1,3 +1,6 @@
+* {
+    font-family: 'Arial', 'Helvetica Nue', Helvetica, sans-serif;
+}
 body {
     width: 960px;
     height: 100%;
@@ -10,7 +13,7 @@ body {
     width: 536px;
     height:20px;
     padding:20px;
-    background:yellow;
+    background:#cccccc;
 }
 
 #namebox {
@@ -21,7 +24,7 @@ body {
     width: 100px;
     height:20px;
     padding:20px;
-    background: green;
+    background: #4aaaa5;
 }
 
 #Portfolio {
@@ -30,7 +33,7 @@ body {
     width:104px;
     height:20px;
     padding:20px;
-    background: orange;
+    background:#cccccc;
 }
 
 #contact {
@@ -39,7 +42,7 @@ body {
     width:200px;
     height:20px;
     padding:20px;
-    background:red;
+    background:#cccccc;
 }
 
 #Middle {
