@@ -134,7 +134,7 @@ footer {position: absolute;
         border-bottom-style: solid;
 }
 form {
-    widows: 660px;
+    width: 660px;
     position:absolute;
     top:100px;
     bottom:0;
@@ -145,19 +145,22 @@ form {
 
 }
 
-#name {float: left;
-    
-    margin:20px;
-  
-        
+#name { 
+    float: left;
+    padding-right: 40px;
+    padding-left:40px;
+    padding-bottom: 20px;
 }
-#email {float: left;
-    margin:20px;
-    
+#email {
+    float: left;
+    padding-right: 40px;
+    padding-left:40px;
+    padding-bottom: 20px;
         
 }
 #message {
-    display:block;
-    margin:20px;
+    float: left;
+    padding-right: 40px;
+    padding-left:40px;
         
 }
