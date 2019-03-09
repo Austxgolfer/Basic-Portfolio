@@ -174,48 +174,58 @@ form {
 }
 #hangman { 
     position: absolute;
-    top: 60px;
-    left:100px;
-    padding: 20px;
+    top: 100px;
+    left:140px;
+    width:200px;
+    height: 110px;
+    background-image: url("../images/hangman.jpg")
+    
     
 }
 #rpg {
     position: absolute;
-    top: 60px;
-    left:320px;
-    width:300px;
+    top: 100px;
+    left:360px;
+    width:200px;
     height: 110px;
-    padding:20px;
+    background-image: url("../images/rpg.jpg")
         
 }
 #trivia {
     position: absolute;
-    top: 190px;
-    left:100px;
-    width:300px;
+    top: 220px;
+    left:140px;
+    width:200px;
     height: 110px;
-    padding:20px;
+    background-image: url("../images/place1.jpg")
         
 }
 #rutgers {
     position: absolute;
-    top: 190px;
-    left:320px;
-    width:300px;
+    top: 220px;
+    left:360px;
+    width:200px;
     height: 110px;
-    padding:20px;
+    background-image: url("../images/widget.jpg") 
         
 }
 #rps {
     position: absolute;
-    top: 320px;
-    left:100px;
-    width:300px;
-    height: 110px;
-    padding:20px;
-}
-img {
+    top: 340px;
+    left:140px;
     width:200px;
     height: 110px;
-    
+    background-image: url("../images/place5.jpg")
+}
+
+.banner {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-color: #4aaaa5;
+    margin-top: 60px;
+    padding:10px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 200;
+
+
 }
