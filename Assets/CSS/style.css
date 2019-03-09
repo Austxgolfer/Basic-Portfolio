@@ -164,3 +164,58 @@ form {
     padding-left:40px;
         
 }
+#portfoliobox {
+    position: absolute;
+    top:10px;
+    left:120px;
+    height: 450px;
+    width:720px;
+    background: #ffffff;
+}
+#hangman { 
+    position: absolute;
+    top: 60px;
+    left:100px;
+    padding: 20px;
+    
+}
+#rpg {
+    position: absolute;
+    top: 60px;
+    left:320px;
+    width:300px;
+    height: 110px;
+    padding:20px;
+        
+}
+#trivia {
+    position: absolute;
+    top: 190px;
+    left:100px;
+    width:300px;
+    height: 110px;
+    padding:20px;
+        
+}
+#rutgers {
+    position: absolute;
+    top: 190px;
+    left:320px;
+    width:300px;
+    height: 110px;
+    padding:20px;
+        
+}
+#rps {
+    position: absolute;
+    top: 320px;
+    left:100px;
+    width:300px;
+    height: 110px;
+    padding:20px;
+}
+img {
+    width:200px;
+    height: 110px;
+    
+}
